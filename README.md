@@ -15,10 +15,11 @@ It is a simple app that only does one thing: it injects the bundled-in CSS code 
 - [@karlprieb](https://github.com/karlprieb)
 # Usage
 
-Just download the git archive and extract into your nextcloud/apps folder. Make sure the folder setup looks like this:
-/nextcloud/apps/normalscrollbars/CSS
-/nextcloud/apps/normalscrollbars/appinfo
-/nextcloud/apps/normalscrollbars/lib
+Just download the git archive and extract into your nextcloud/apps folder. Make sure the folder setup looks like this: <br>
+<code>/nextcloud/apps/normalscrollbars/CSS<br>
+/nextcloud/apps/normalscrollbars/appinfo<br>
+/nextcloud/apps/normalscrollbars/lib<br></code>
+<p>Then make sure it's enabled in nextcloud apps.
 
 # Usage with Custom CSS
 
