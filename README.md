@@ -19,7 +19,7 @@ Just download the git archive and extract into your nextcloud/apps folder. Make 
 <code>/nextcloud/apps/normalscrollbars/CSS<br>
 /nextcloud/apps/normalscrollbars/appinfo<br>
 /nextcloud/apps/normalscrollbars/lib<br></code>
-<p>Then make sure it's enabled in nextcloud apps.
+<p>Then make sure it's enabled in nextcloud apps. There's no javascript or PHP, just CSS and you don't need the code folder.
 
 # Usage with Custom CSS
 
