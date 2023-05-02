@@ -22,7 +22,7 @@ Just download the git archive and extract into your nextcloud/apps folder. Make 
 
 # Usage with Custom CSS
 
-Seems to work with Custom CSS, as long as you aren't overiding it in there. You can even copy my CSS from the file and paste it in Custom CSS too.
+Seems to work with Custom CSS, as long as you aren't overriding it in there. You can even copy my CSS from the file and paste it in Custom CSS too.
 
 # Packaging using the buildscript
 
