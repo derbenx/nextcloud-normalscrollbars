@@ -13,10 +13,16 @@ It is a simple app that only does one thing: it injects the bundled-in CSS code 
 - [@derbenx](https://github.com/derbenx)
 - [@OliverParoczai](https://github.com/OliverParoczai)
 - [@karlprieb](https://github.com/karlprieb)
+# Usage
+
+Just download the git archive and extract into your nextcloud/apps folder. Make sure the folder setup looks like this:
+/nextcloud/apps/normalscrollbars/CSS
+/nextcloud/apps/normalscrollbars/appinfo
+/nextcloud/apps/normalscrollbars/lib
 
 # Usage with Custom CSS
 
-I couldn't get Custom CSS to work.. so I made this..
+Seems to work with Custom CSS, as long as you aren't overiding it in there. You can even copy my CSS from the file and paste it in Custom CSS too.
 
 # Packaging using the buildscript
 
