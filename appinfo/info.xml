@@ -13,9 +13,9 @@ A Nextcloud app that restores the scrollbars to a normal width.
     <author mail="colin@derben.ca" homepage="https://derben.ca">DerBen</author>
     <namespace>NormalScrollBars</namespace>
     <category>customization</category>
-    <website>https://github.com/DerBenx/nextcloud-normalscrollbars</website>
-    <bugs>https://github.com/DerBenx/nextcloud-normalscrollbars/issues</bugs>
-    <screenshot>https://raw.githubusercontent.com/DerBenx/nextcloud-normalscrollbars/master/differences.png</screenshot>
+    <website>https://github.com/derbenx/nextcloud-normalscrollbars</website>
+    <bugs>https://github.com/derbenx/nextcloud-normalscrollbars/issues</bugs>
+    <screenshot>https://raw.githubusercontent.com/derbenx/nextcloud-normalscrollbars/master/differences.png</screenshot>
     <dependencies>
         <nextcloud min-version="25" max-version="29"/>
     </dependencies>
