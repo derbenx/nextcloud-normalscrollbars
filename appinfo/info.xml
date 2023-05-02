@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
       xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
-    <id>unroundedcorners</id>
-    <name>Unrounded Corners</name>
-    <summary>An extension for making the corners of buttons and widgets unrounded</summary>
+    <id>normalscrollbars</id>
+    <name>Normal Scrollbars</name>
+    <summary>Want scrollbars you can find eaiser? No more thin bars!</summary>
     <description><![CDATA[
-# Unrounded Corners
-A Nextcloud app that restores the corners of buttons and widgets to their original looks by unrounding them.
+# Normal Scrollbars
+A Nextcloud app that restores the scrollbars to a normal width.
     ]]></description>
-    <version>1.0.8</version>
+    <version>1.0.0</version>
     <licence>agpl</licence>
-    <author mail="me@oliverparoczai.org" homepage="https://oliverparoczai.dev">Oliver Paroczai</author>
-    <namespace>UnroundedCorners</namespace>
+    <author mail="colin@derben.ca" homepage="https://derben.ca">DerBen</author>
+    <namespace>NormalScrollBars</namespace>
     <category>customization</category>
-    <website>https://github.com/OliverParoczai/nextcloud-unroundedcorners</website>
-    <bugs>https://github.com/OliverParoczai/nextcloud-unroundedcorners/issues</bugs>
-    <screenshot>https://raw.githubusercontent.com/OliverParoczai/nextcloud-unroundedcorners/master/differences.png</screenshot>
+    <website>https://github.com/DerBenx/nextcloud-normalscrollbars</website>
+    <bugs>https://github.com/DerBenx/nextcloud-normalscrollbars/issues</bugs>
+    <screenshot>https://raw.githubusercontent.com/DerBenx/nextcloud-normalscrollbars/master/differences.png</screenshot>
     <dependencies>
         <nextcloud min-version="25" max-version="29"/>
     </dependencies>
